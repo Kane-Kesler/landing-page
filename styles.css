@@ -9,6 +9,7 @@ body {
     display: flex;
 }
 
+.navbar-left, 
 .navbar-right {
     display: flex;
 }
