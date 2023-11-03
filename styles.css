@@ -116,3 +116,9 @@ body {
     margin-bottom: 128px;
 }
 
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
