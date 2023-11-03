@@ -31,6 +31,7 @@ body {
 
 .hero-container {
     margin-top: 100px;
+    display: flex;
 }
 
 .hero-container-left .title {
@@ -42,3 +43,4 @@ body {
 .hero-container-right {
     display: flex;
 }
+
