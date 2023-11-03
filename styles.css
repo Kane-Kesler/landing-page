@@ -126,8 +126,11 @@ body {
 
 .quote-author {
     text-align: center;
+    background-color: #E5E7EB;
+    padding: 60px;
 }
 
 .author {
     margin-top: 24px;
 }
+
