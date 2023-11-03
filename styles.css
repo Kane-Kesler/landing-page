@@ -45,3 +45,6 @@ body {
     align-items: center;
 }
 
+.hero-container-left {
+    flex-wrap: wrap;
+}
