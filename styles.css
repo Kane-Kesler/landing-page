@@ -15,6 +15,10 @@ body {
     color: #F9FAF8;
 }
 
+.header-logo:hover {
+    cursor: pointer;
+}
+
 .navbar {
     display: flex;
     align-items: center;
