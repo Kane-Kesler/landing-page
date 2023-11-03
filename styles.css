@@ -52,6 +52,15 @@ body {
 .hero-container-left .title {
     font-size: 48px;
     font-weight: 800;
+    color: #F9FAF8;
+}
+
+.hero-container-left .description {
+    color: #E5E7EB;
+}
+
+.button {
+    color: #F9FAF8;
 }
 
 .hero-container-left,
