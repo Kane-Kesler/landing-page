@@ -132,5 +132,7 @@ body {
 
 .author {
     margin-top: 24px;
+    font-weight: 800;
+    font-size: large;
 }
 
