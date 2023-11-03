@@ -38,6 +38,7 @@ body {
 .nav-links {
     font-size: 18px;
     color: #E5E7EB;
+    margin: 8px;
 }
 
 .nav-links:hover {
