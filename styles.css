@@ -48,6 +48,7 @@ body {
 .hero-container-right {
     display: flex;
     align-items: center;
+    margin: 16px;
 }
 
 .hero-container-left {
