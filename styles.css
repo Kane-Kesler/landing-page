@@ -89,4 +89,8 @@ body {
     border-radius: 10%;
 }
 
-
+.content-container .title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
