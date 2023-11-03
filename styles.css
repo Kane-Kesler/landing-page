@@ -13,7 +13,7 @@ body {
     font-size: 24px;
     display: flex;
     color: #F9FAF8;
-    padding-right: 160px;
+    padding-right: 200px;
 }
 
 .header-logo:hover {
@@ -136,3 +136,37 @@ body {
     font-size: large;
 }
 
+.call-to-action {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+}
+
+.call-to-action-upper {
+    font-weight: 800;
+    font-size: large;
+    color: #F9FAF8;
+}
+
+.content-container-lower {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#3882F6;
+    margin: 80px 400px;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+
+.content-container-lower .button {
+    border: 1px solid white;
+    margin-bottom: 16px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    margin-top: 80px;
+    padding: 16px;
+    color: #F9FAF8;
+}
