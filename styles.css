@@ -42,5 +42,6 @@ body {
 .hero-container-left,
 .hero-container-right {
     display: flex;
+    align-items: center;
 }
 
