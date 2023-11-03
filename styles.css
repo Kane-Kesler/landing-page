@@ -31,10 +31,6 @@ body {
     display: flex;
 }
 
-.navbar-right div {
-    margin: 8px;
-}
-
 .nav-links {
     font-size: 18px;
     color: #E5E7EB;
@@ -92,3 +88,5 @@ body {
 .hero-container-right img {
     border-radius: 10%;
 }
+
+
