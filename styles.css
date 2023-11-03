@@ -36,6 +36,11 @@ body {
     color: #E5E7EB;
 }
 
+.nav-links:hover {
+    color: #F9FAF8;
+    cursor: pointer;
+}
+
 .hero-container {
     margin-top: 100px;
     display: flex;
