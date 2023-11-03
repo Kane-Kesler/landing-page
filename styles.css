@@ -84,6 +84,7 @@ body {
 }
 
 .hero-container-left {
+    flex-direction: column;
     flex-wrap: wrap;
 }
 
