@@ -1,11 +1,11 @@
 body {
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar-hero-container {
     background-color: #1F2937;
     padding: 70px;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header-logo {
